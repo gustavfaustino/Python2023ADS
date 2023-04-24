@@ -8,7 +8,7 @@ n = int(input('Digite um número positivo e inteiro aqui:  '))
 
 soma = 0
 
-for c in soma (1,n+1):
+for c in range(1,n+1):
   soma +=1/c
   
 print(f'O resultado da soma é: {soma:.2f}')
