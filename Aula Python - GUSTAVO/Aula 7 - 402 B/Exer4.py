@@ -7,7 +7,7 @@ qtd_negativos = 0
 menor_valor = 0
 
 while True:
-    num = float(input('Digite um número ou 0 para terminar'))
+    num = float(input('Digite um número ou 0 para terminar: '))
     if num == 0:
         break
     if num >0:
