@@ -11,9 +11,9 @@ while True:
     if num == 0:
         break
     if num >0:
-        qntd_positivos +=1
+        qtd_positivos +=1
     else:
-        qntd_negativos +=1
+        qtd_negativos +=1
         if num < menor_valor:
             menor_valor = num
 
